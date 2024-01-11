@@ -1,6 +1,6 @@
 ## Cross-chain token transfer
 
-CCIPTokenSenderFujiSepolia Address - 0xDA803bABb08401E96BE30D30ADE21931A4e219A3
+CCIPTokenSenderFujiSepolia Address (deployed via remix) - 0xDA803bABb08401E96BE30D30ADE21931A4e219A3
 
 ### Docs
 Add Fuji to Metamask- https://chainlist.org/chain/43113
