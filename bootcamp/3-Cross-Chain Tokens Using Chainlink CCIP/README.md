@@ -1,4 +1,9 @@
 ## Cross-chain token transfer
+​Day 4
+https://www.youtube.com/watch?v=5IFeP0gdcpM
+
+​Day 5
+https://www.youtube.com/watch?v=xSfTQ66qUm0
 
 CCIPTokenSenderFujiSepolia Address (deployed via remix) - 0xDA803bABb08401E96BE30D30ADE21931A4e219A3
 
