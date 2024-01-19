@@ -19,3 +19,7 @@ GettingStartedFunctionsConsumer.sol - 0xEd948BcDaaFe7A3A6c660F8831f7D2B63aBa89DD
 (Go to your Function subscription. https://functions.chain.link/. Add a consumer = GettingStartedFunctionsConsumer Address)
 
 TemperatureFunctions.sol - 0xf5caA76b550455B126377C197aADCa0d68a0A041
+
+WeatherFunctions.sol - 0x61990EAb2b96F3Bbe9d924906391CFa0D15C5664
+Instructor WeatherFuntion address - Sol´s contract address - 0x95ef14D31C13cD28A7d4438e9B45EDEa0557c85b
+
